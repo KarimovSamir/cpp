@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Функция калькулятор", "Функция калькулятор\Функция калькулятор.vcxproj", "{B313B681-0FAE-451F-9752-998691B21571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B313B681-0FAE-451F-9752-998691B21571}.Debug|x64.ActiveCfg = Debug|x64
+		{B313B681-0FAE-451F-9752-998691B21571}.Debug|x64.Build.0 = Debug|x64
+		{B313B681-0FAE-451F-9752-998691B21571}.Debug|x86.ActiveCfg = Debug|Win32
+		{B313B681-0FAE-451F-9752-998691B21571}.Debug|x86.Build.0 = Debug|Win32
+		{B313B681-0FAE-451F-9752-998691B21571}.Release|x64.ActiveCfg = Release|x64
+		{B313B681-0FAE-451F-9752-998691B21571}.Release|x64.Build.0 = Release|x64
+		{B313B681-0FAE-451F-9752-998691B21571}.Release|x86.ActiveCfg = Release|Win32
+		{B313B681-0FAE-451F-9752-998691B21571}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2925F569-6799-4DDD-ACF0-C3771C3C5EBD}
+	EndGlobalSection
+EndGlobal
